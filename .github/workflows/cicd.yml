@@ -54,4 +54,4 @@ jobs:
         build-args: |
           VITE_API_URL=https://api.194.lebondeveloppeur.net
         tags: |
-          ${{ env.IMAGE_NAME }}  
+          ${{ env.IMAGE_NAME }}    
